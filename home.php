@@ -10,7 +10,7 @@ if (!isset($_SESSION['login'])) {
 <head>
 
     <title></title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="home.css">
     <meta charset="utf-8">
 		<title>Home Page</title>
 		<link href="home.css" rel="stylesheet" type="text/css">
